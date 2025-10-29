@@ -156,7 +156,7 @@ export default function VyantraHomepage() {
               {/* Mobile Login Button (hidden on desktop) */}
               <SignedOut>
                 <Button 
-                  onClick={() => router.push("/api/login")}
+                  onClick={() => router.push("/login")}
                   variant="outline" size="sm" className="w-full justify-start bg-transparent text-sm h-8">
                   <LogIn className="h-3 w-3 mr-2" />
                   Login
@@ -210,7 +210,7 @@ export default function VyantraHomepage() {
                 <div className="pt-2 space-y-2">
                   <SignedOut>
                     <Button
-                      onClick={() => router.push("/api/login")}
+                      onClick={() => router.push("/login")}
                       variant="outline"
                       size="sm"
                       className="w-full justify-start bg-transparent text-sm h-8"

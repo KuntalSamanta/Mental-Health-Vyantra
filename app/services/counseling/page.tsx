@@ -115,7 +115,7 @@ export default function CounselingPage() {
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button
                   size="lg"
-                  onClick={() => router.push("/consultion")}
+                  onClick={() => router.push("/consultation")}
                   className="bg-primary hover:bg-primary/90"
                 >
                   <Calendar className="mr-2 h-5 w-5" />
@@ -469,7 +469,7 @@ export default function CounselingPage() {
             Take the first step towards better mental health with personalized 1-on-1 counseling support.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" variant="secondary" onClick={() => router.push("/consultion")} className="text-lg px-8">
+            <Button size="lg" variant="secondary" onClick={() => router.push("/consultation")} className="text-lg px-8">
               <Calendar className="mr-2 h-5 w-5" />
               Book Free Consultation
             </Button>
