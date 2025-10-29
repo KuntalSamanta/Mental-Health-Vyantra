@@ -108,13 +108,21 @@ Pull requests and discussions welcome!
 ## 📝 License
 
 MIT License.  
-See `LICENSE` for details.
 
 ***
+-------
+## 🪟 PREVIEW
+-------
 
-
-
-***
 <img width="1919" height="1079" alt="Screenshot 2025-10-29 193008" src="https://github.com/user-attachments/assets/1ea59e84-3798-4e87-8b2d-12be219ed6c3" />
+<img width="1919" height="1077" alt="Screenshot 2025-10-29 193045" src="https://github.com/user-attachments/assets/aaafb0df-7928-4118-b3f8-0728799b408f" />
+<img width="1919" height="1074" alt="Screenshot 2025-10-29 193120" src="https://github.com/user-attachments/assets/51d1b4db-0b4d-4bbd-a037-e14f7906db86" />
+<img width="1919" height="1077" alt="Screenshot 2025-10-29 193132" src="https://github.com/user-attachments/assets/9fca7d8f-83aa-45ae-b0e1-e2d99332953e" />
+<img width="1917" height="1079" alt="Screenshot 2025-10-29 193146" src="https://github.com/user-attachments/assets/08c46245-a9bb-463b-90a9-7532187b2dc6" />
+
+
+
+
+***
 
 
