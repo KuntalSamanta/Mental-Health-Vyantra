@@ -1,13 +1,12 @@
 {
-  "name": "my-v0-project",
-  "version": "0.1.0",
+  "name": "my-v0-frontend",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "next build",
     "dev": "next dev",
-    "lint": "next lint",
+    "build": "next build",
     "start": "next start",
-    "backend": "cd backend && python app/chatbot_app.py"
+    "lint": "next lint"
   },
   "dependencies": {
     "@ai-sdk/google": "^2.0.23",
